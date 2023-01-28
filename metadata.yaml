@@ -1,11 +1,16 @@
 _repo: Date-line_69709
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69709-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Benj.
     gutenberg_agent_id: '55378'
     url: http://www.gutenberg.org/2009/agents/55378
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69709#Date-line
 gutenberg_issued: '2023-01-05'
 identifiers:
   gutenberg: '69709'
